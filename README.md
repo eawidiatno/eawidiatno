@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 - 🌱 &ensp;I’m currently learning Flutter ❤️
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
+- 🗿 &ensp;I am adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading
 
 
