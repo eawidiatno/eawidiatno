@@ -1,9 +1,10 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/JohannesMilke?sub_confirmation=1">Eka Ari Widiatno!</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ekaa.widiatno?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/eawidiatno?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: eawidiatno](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
+[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
 
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
