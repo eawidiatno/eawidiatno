@@ -5,6 +5,7 @@
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading
 
+<br />
 ### Connect With Me
 <br />
 
