@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekaa.widiatno?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/eawidiatno?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: eawidiatno](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
+[![Linkedin: eawidiatno](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
 
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
